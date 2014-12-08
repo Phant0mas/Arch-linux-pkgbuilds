@@ -1,4 +1,4 @@
-Arch-personal-PKGFILE
-=====================
+Arch-personal-PKGBUILD
+======================
 
-My personal custom PKGFILE files for ARCH GNU/Linux
+My personal custom PKGBUILD files for ARCH GNU/Linux
